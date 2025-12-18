@@ -4,7 +4,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "PORTOVIEJO",
+				"name": "PORTOVIEJO",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -1374,7 +1374,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "Bolívar",
+				"name": "BOLIVAR",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -2328,7 +2328,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "CHONE",
+				"name": "CHONE",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -5386,7 +5386,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "EL CARMEN",
+				"name": "EL CARMEN",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -6700,7 +6700,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "FLAVIO ALFARO",
+				"name": "FLAVIO ALFARO",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -8202,7 +8202,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "JIPIJAPA",
+				"name": "JIPIJAPA",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -9936,7 +9936,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "JUNIN",
+				"name": "JUNIN",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -10462,7 +10462,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "MANTA",
+				"name": "MANTA",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -10888,7 +10888,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "MONTECRISTI",
+				"name": "MONTECRISTI",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -11742,7 +11742,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "PAJAN",
+				"name": "PAJAN",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -13288,7 +13288,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "Pichincha",
+				"name": "PICHINCHA",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -14638,7 +14638,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "ROCAFUERTE",
+				"name": "ROCAFUERTE",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -15144,7 +15144,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "SANTA ANA",
+				"name": "SANTA ANA",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -16242,7 +16242,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "SUCRE",
+				"name": "SUCRE",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -17540,7 +17540,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "TOSAGUA",
+				"name": "TOSAGUA",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -18254,7 +18254,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "24 DE MAYO",
+				"name": "24 DE MAYO",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -19156,7 +19156,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "PEDERNALES",
+				"name": "PEDERNALES",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -21066,7 +21066,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "OLMEDO",
+				"name": "OLMEDO",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -21588,7 +21588,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "PUERTO LOPEZ",
+				"name": "PUERTO LOPEZ",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -22426,7 +22426,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "JAMA",
+				"name": "JAMA",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -23048,7 +23048,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "JARAMIJO",
+				"name": "JARAMIJO",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"
@@ -23298,7 +23298,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"canton": "SAN VICENTE",
+				"name": "SAN VICENTE",
 				"iso_2": "EC-M",
 				"province": "Manabí",
 				"iso_1": "EC"

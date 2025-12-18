@@ -7,11 +7,17 @@ fetch('https://raw.githubusercontent.com/pabl-o-ce/Ecuador-geoJSON/master/geojso
   .then(data => {
     const cantonesManabi = {
       ...data,
-      features: data.features.filter(f => f.properties.DPA_DESPRO === 'MANABI')
+      features: data.features.filter(f => f.properties.province === 'Manabí')
     };
 
     const pathResult = path.join(__dirname, './manabi.geojson');
-    fs.writeFile(pathResult, JSON.stringify(cantonesManabi, ))
+    fs.writeFile(
+      pathResult,
+      JSON.stringify(cantonesManabi, null, '\t'),
+      () => {
+        console.log("Writed.");
+      }
+    )
 
-    console.log("Cantones de mi provincia:", cantonesManabi);
+    console.log("Downloaded, writing...");
   });

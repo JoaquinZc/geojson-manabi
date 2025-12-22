@@ -1,5 +1,5 @@
 const mapLink = 'https://raw.githubusercontent.com/JoaquinZc/geojson-manabi/main/manabi.geojson';
-const mapLinkByParroquia = 'https://raw.githubusercontent.com/JoaquinZc/geojson-manabi/main/manabi-parroquias-formatted.geojson';
+const mapLinkByParroquia = 'https://raw.githubusercontent.com/JoaquinZc/geojson-manabi/main/manabi-parroquias-cformatted.geojson';
 
 const getVariableCanton = () => {
   const variables = context.grafana.replaceVariables("${canton}");
